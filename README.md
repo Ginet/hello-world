@@ -1,2 +1,4 @@
-# hello-world
-Jei's practice
+hello-world
+=========================
+
+Getting my geek on on a sunny Saturday afternoon.
